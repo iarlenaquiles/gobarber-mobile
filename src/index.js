@@ -1,7 +1,9 @@
 import React from 'react';
-import { Text } from 'react-native';
+import { View } from 'react-native';
 
-const App = () => {
-  return <Text>jfgjfgjfjf</Text>;
-};
-export default App;
+import Routes from './routes';
+// import { Container } from './styles';
+
+export default function App() {
+  return <Routes />;
+}
