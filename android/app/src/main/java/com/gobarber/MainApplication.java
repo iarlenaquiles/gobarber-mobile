@@ -1,4 +1,4 @@
-package com.rocketshoes;
+package com.gobarber;
 
 import android.app.Application;
 import android.util.Log;
