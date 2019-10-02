@@ -1,7 +1,7 @@
 import React from 'react';
 import { TouchableOpacity } from 'react-native';
 // import { Container } from './styles';
-import Icon from 'react-native-vector-icons';
+import Icon from 'react-native-vector-icons/MaterialIcons';
 import Background from '~/components/Background';
 
 export default function SelectProvider() {
