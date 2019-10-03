@@ -10,7 +10,6 @@ export function* updateProfile({ payload }) {
     const profile = {
       name,
       email,
-
       ...(rest.oldPassword ? rest : {}),
     };
 
